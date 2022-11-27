@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "author": "Rodrigo Kamada <rodrigo@kamada.com.br> (https://github.com/rodrigokamada)",
+  "license": "MIT",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,7 +13,6 @@
     "url": "git+https://github.com/rodrigokamada/nodejs-aws-lambda.git"
   },
   "keywords": [],
-  "license": "ISC",
   "bugs": {
     "url": "https://github.com/rodrigokamada/nodejs-aws-lambda/issues"
   },
