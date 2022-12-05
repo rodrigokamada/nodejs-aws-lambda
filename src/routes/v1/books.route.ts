@@ -12,7 +12,7 @@ router.get('/', async (req: Request, res: Response) => {
       },
     ];
 
-    console.debug(`Returning the books [${JSON.stringify(books)}]`);
+    console.debug(`Returning the books ${JSON.stringify(books)}`);
 
     res.status(200).json(books);
   } catch (error) {
